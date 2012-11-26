@@ -13469,12 +13469,18 @@ cr.getProjectModel = function() { return [
 			[
 			[
 				1,
-				cr.plugins_.Keyboard.prototype.cnds.OnAnyKey,
+				cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
 				null,
-				true,
+				false,
 				false,
 				false,
 				false
+				,[
+				[
+					9,
+					32
+				]
+				]
 			]
 ,			[
 				2,
@@ -14058,9 +14064,9 @@ cr.getProjectModel = function() { return [
 			[
 			[
 				11,
-				cr.plugins_.Touch.prototype.cnds.OnTouchStart,
+				cr.plugins_.Touch.prototype.cnds.IsInTouch,
 				null,
-				true,
+				false,
 				false,
 				false,
 				false
