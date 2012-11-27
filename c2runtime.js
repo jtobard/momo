@@ -12263,7 +12263,52 @@ cr.getProjectModel = function() { return [
 			0,
 			false,
 			[
-				["images/player-sheet0.png", 3742, 0, 0, 98, 114, 1, -0.72449, 1.07018,[],[1.08163,-0.666666,1.2551,-1.04386,1.56122,-0.780701,1.70408,-0.517543,1.21429,-0.552631,1.2551,-0.315789,0.785714,-0.114035,0.959184,-0.517543]]
+				["images/player-sheet1.png", 31369, 1, 1, 98, 110, 1, 0.418367, 0.754545,[],[-0.0612243,-0.351036,0.112245,-0.72823,0.418368,-0.465071,0.561225,-0.201913,0.0714287,-0.237001,0.112245,-0.000159442,-0.357143,0.201595,-0.183673,-0.201913]]
+			]
+			]
+,			[
+			"Choque",
+			6,
+			false,
+			1,
+			0,
+			false,
+			[
+				["images/player-sheet0.png", 23760, 1, 1, 110, 100, 1, 0.390909, 0.6,[],[-0.140909,-0.4275,0.109091,-0.375,0.413853,-0.4825,0.55671,-0.165,0.449567,0.1925,0.109091,0.2375,-0.174242,0.135,-0.274242,-0.165]],
+				["images/player-sheet1.png", 31369, 100, 1, 98, 100, 1, 0.377551, 0.75,[],[-0.0204082,-0.346491,0.153061,-0.723684,0.459184,-0.460526,0.602041,-0.197368,0.112245,-0.232456,0.153061,0.00438595,-0.316327,0.20614,-0.142857,-0.197368]],
+				["images/player-sheet0.png", 23760, 112, 1, 110, 100, 1, 0.390909, 0.6,[],[-0.140909,-0.4275,0.109091,-0.375,0.413853,-0.4825,0.55671,-0.165,0.449567,0.1925,0.109091,0.2375,-0.174242,0.135,-0.274242,-0.165]],
+				["images/player-sheet1.png", 31369, 100, 102, 98, 100, 1, 0.377551, 0.75,[],[-0.0204082,-0.346491,0.153061,-0.723684,0.459184,-0.460526,0.602041,-0.197368,0.112245,-0.232456,0.153061,0.00438595,-0.316327,0.20614,-0.142857,-0.197368]],
+				["images/player-sheet0.png", 23760, 1, 102, 110, 100, 1, 0.390909, 0.6,[],[-0.140909,-0.4275,0.109091,-0.375,0.413853,-0.4825,0.55671,-0.165,0.449567,0.1925,0.109091,0.2375,-0.174242,0.135,-0.274242,-0.165]],
+				["images/player-sheet1.png", 31369, 1, 112, 98, 100, 1, 0.377551, 0.75,[],[-0.0204082,-0.346491,0.153061,-0.723684,0.459184,-0.460526,0.602041,-0.197368,0.112245,-0.232456,0.153061,0.00438595,-0.316327,0.20614,-0.142857,-0.197368]],
+				["images/player-sheet0.png", 23760, 112, 102, 110, 100, 1, 0.390909, 0.6,[],[-0.140909,-0.4275,0.109091,-0.375,0.413853,-0.4825,0.55671,-0.165,0.449567,0.1925,0.109091,0.2375,-0.174242,0.135,-0.274242,-0.165]]
+			]
+			]
+,			[
+			"Sube",
+			8,
+			false,
+			1,
+			0,
+			false,
+			[
+				["images/player-sheet2.png", 34106, 1, 1, 80, 72, 1, 0.7125, 0.611111,[],[-0.0899305,0.219522,-0.2375,0.190586,-0.298264,0.123071,-0.306944,0.0555555,-0.636806,-0.388117,-0.2375,-0.571374,-0.0552083,-0.146991,0.222569,0.0555555]],
+				["images/player-sheet2.png", 34106, 82, 1, 72, 80, 1, 0.388889, 0.7125,[],[-0.219522,-0.0899305,-0.190586,-0.2375,-0.123071,-0.298264,-0.0555555,-0.306944,0.388117,-0.636806,0.571374,-0.2375,0.146991,-0.0552083,-0.0555555,0.222569]],
+				["images/player-sheet2.png", 34106, 155, 1, 80, 72, 1, 0.7125, 0.611111,[],[-0.0899305,0.219522,-0.2375,0.190586,-0.298264,0.123071,-0.306944,0.0555555,-0.636806,-0.388117,-0.2375,-0.571374,-0.0552083,-0.146991,0.222569,0.0555555]],
+				["images/player-sheet2.png", 34106, 1, 74, 72, 80, 1, 0.388889, 0.7125,[],[-0.219522,-0.0899305,-0.190586,-0.2375,-0.123071,-0.298264,-0.0555555,-0.306944,0.388117,-0.636806,0.571374,-0.2375,0.146991,-0.0552083,-0.0555555,0.222569]]
+			]
+			]
+,			[
+			"Baja",
+			8,
+			false,
+			1,
+			0,
+			false,
+			[
+				["images/player-sheet2.png", 34106, 155, 74, 72, 80, 1, 0.611111, 0.2875,[],[0.219522,0.0899306,0.190586,0.2375,0.123071,0.298264,0.0555555,0.306944,-0.388117,0.636806,-0.571374,0.2375,-0.146991,0.0552083,0.0555555,-0.222569]],
+				["images/player-sheet2.png", 34106, 74, 82, 80, 72, 1, 0.2875, 0.388889,[],[0.0899306,-0.219522,0.2375,-0.190586,0.298264,-0.123071,0.306944,-0.0555556,0.636806,0.388117,0.2375,0.571374,0.0552083,0.146991,-0.222569,-0.0555556]],
+				["images/player-sheet2.png", 34106, 1, 155, 72, 80, 1, 0.611111, 0.2875,[],[0.219522,0.0899306,0.190586,0.2375,0.123071,0.298264,0.0555555,0.306944,-0.388117,0.636806,-0.571374,0.2375,-0.146991,0.0552083,0.0555555,-0.222569]],
+				["images/player-sheet2.png", 34106, 74, 155, 80, 72, 1, 0.2875, 0.388889,[],[0.0899306,-0.219522,0.2375,-0.190586,0.298264,-0.123071,0.306944,-0.0555556,0.636806,0.388117,0.2375,0.571374,0.0552083,0.146991,-0.222569,-0.0555556]]
 			]
 			]
 		],
@@ -12652,7 +12697,7 @@ cr.getProjectModel = function() { return [
 			0,
 			[
 			[
-				[137, 363, 0, 98, 114, 0, 0, 1, -0.72449, 1.07018, 0, 0, []],
+				[137, 363, 0, 98, 110, 0, 0, 1, 0.418367, 0.754545, 0, 0, []],
 				2,
 				[
 					0
@@ -13484,12 +13529,71 @@ cr.getProjectModel = function() { return [
 			]
 ,			[
 				2,
-				cr.behaviors.Flash.prototype.cnds.IsFlashing,
-				"Flash",
+				cr.plugins_.Sprite.prototype.cnds.IsAnimPlaying,
+				null,
 				false,
 				false,
-				true,
+				false,
 				false
+				,[
+				[
+					1,
+					[
+						2,
+						"Default"
+					]
+				]
+				]
+			]
+			],
+			[
+			[
+				2,
+				cr.behaviors.Platform.prototype.acts.SetVectorY,
+				"Platform"
+				,[
+				[
+					0,
+					[
+						0,
+						-200
+					]
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			[
+			[
+				11,
+				cr.plugins_.Touch.prototype.cnds.IsInTouch,
+				null,
+				false,
+				false,
+				false,
+				false
+			]
+,			[
+				2,
+				cr.plugins_.Sprite.prototype.cnds.IsAnimPlaying,
+				null,
+				false,
+				false,
+				false,
+				false
+				,[
+				[
+					1,
+					[
+						2,
+						"Default"
+					]
+				]
+				]
 			]
 			],
 			[
@@ -13603,6 +13707,90 @@ cr.getProjectModel = function() { return [
 				cr.plugins_.Sprite.prototype.acts.Destroy,
 				null
 			]
+,			[
+				13,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			[
+			[
+				3,
+				cr.plugins_.Sprite.prototype.cnds.IsOutsideLayout,
+				null,
+				false,
+				false,
+				false,
+				false
+			]
+			],
+			[
+			[
+				12,
+				cr.plugins_.Text.prototype.acts.SetVisible,
+				null
+				,[
+				[
+					3,
+					1
+				]
+				]
+			]
+,			[
+				2,
+				cr.plugins_.Sprite.prototype.acts.SetVisible,
+				null
+				,[
+				[
+					3,
+					0
+				]
+				]
+			]
+,			[
+				10,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null
+			]
+,			[
+				7,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null
+			]
+,			[
+				8,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null
+			]
+,			[
+				6,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null
+			]
+,			[
+				3,
+				cr.behaviors.Bullet.prototype.acts.SetSpeed,
+				"Bullet"
+				,[
+				[
+					0,
+					[
+						0,
+						0
+					]
+				]
+				]
+			]
+,			[
+				13,
+				cr.plugins_.Sprite.prototype.acts.Destroy,
+				null
+			]
 			]
 		]
 ,		[
@@ -13641,6 +13829,24 @@ cr.getProjectModel = function() { return [
 				]
 				]
 			]
+,			[
+				2,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null
+				,[
+				[
+					1,
+					[
+						2,
+						"Sube"
+					]
+				]
+,				[
+					3,
+					1
+				]
+				]
+			]
 			]
 		]
 ,		[
@@ -13676,6 +13882,24 @@ cr.getProjectModel = function() { return [
 						0,
 						-400
 					]
+				]
+				]
+			]
+,			[
+				2,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null
+				,[
+				[
+					1,
+					[
+						2,
+						"Baja"
+					]
+				]
+,				[
+					3,
+					1
 				]
 				]
 			]
@@ -14063,38 +14287,6 @@ cr.getProjectModel = function() { return [
 			false,
 			[
 			[
-				11,
-				cr.plugins_.Touch.prototype.cnds.IsInTouch,
-				null,
-				false,
-				false,
-				false,
-				false
-			]
-			],
-			[
-			[
-				2,
-				cr.behaviors.Platform.prototype.acts.SetVectorY,
-				"Platform"
-				,[
-				[
-					0,
-					[
-						0,
-						-200
-					]
-				]
-				]
-			]
-			]
-		]
-,		[
-			0,
-			null,
-			false,
-			[
-			[
 				2,
 				cr.plugins_.Sprite.prototype.cnds.OnCollision,
 				null,
@@ -14122,29 +14314,19 @@ cr.getProjectModel = function() { return [
 			[
 			[
 				2,
-				cr.behaviors.Flash.prototype.acts.Flash,
-				"Flash"
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null
 				,[
 				[
-					0,
+					1,
 					[
-						1,
-						0.1
+						2,
+						"Choque"
 					]
 				]
 ,				[
-					0,
-					[
-						1,
-						0.1
-					]
-				]
-,				[
-					0,
-					[
-						1,
-						0.5
-					]
+					3,
+					1
 				]
 				]
 			]
@@ -14156,69 +14338,181 @@ cr.getProjectModel = function() { return [
 			false,
 			[
 			[
-				3,
-				cr.plugins_.Sprite.prototype.cnds.IsOutsideLayout,
+				2,
+				cr.plugins_.Sprite.prototype.cnds.OnCollision,
 				null,
 				false,
 				false,
 				false,
-				false
-			]
-			],
-			[
-			[
-				12,
-				cr.plugins_.Text.prototype.acts.SetVisible,
-				null
+				true
 				,[
 				[
-					3,
-					1
+					4,
+					13
 				]
 				]
 			]
 ,			[
 				2,
-				cr.plugins_.Sprite.prototype.acts.SetVisible,
+				cr.behaviors.Flash.prototype.cnds.IsFlashing,
+				"Flash",
+				false,
+				false,
+				true,
+				false
+			]
+			],
+			[
+			[
+				2,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
 				null
 				,[
 				[
-					3,
-					0
-				]
-				]
-			]
-,			[
-				10,
-				cr.plugins_.Sprite.prototype.acts.Destroy,
-				null
-			]
-,			[
-				7,
-				cr.plugins_.Sprite.prototype.acts.Destroy,
-				null
-			]
-,			[
-				8,
-				cr.plugins_.Sprite.prototype.acts.Destroy,
-				null
-			]
-,			[
-				6,
-				cr.plugins_.Sprite.prototype.acts.Destroy,
-				null
-			]
-,			[
-				3,
-				cr.behaviors.Bullet.prototype.acts.SetSpeed,
-				"Bullet"
-				,[
-				[
-					0,
+					1,
 					[
-						0,
-						0
+						2,
+						"Choque"
 					]
+				]
+,				[
+					3,
+					1
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			[
+			[
+				2,
+				cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
+				null,
+				true,
+				false,
+				false,
+				false
+				,[
+				[
+					1,
+					[
+						2,
+						"Choque"
+					]
+				]
+				]
+			]
+			],
+			[
+			[
+				2,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null
+				,[
+				[
+					1,
+					[
+						2,
+						"Default"
+					]
+				]
+,				[
+					3,
+					1
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			[
+			[
+				2,
+				cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
+				null,
+				true,
+				false,
+				false,
+				false
+				,[
+				[
+					1,
+					[
+						2,
+						"Baja"
+					]
+				]
+				]
+			]
+			],
+			[
+			[
+				2,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null
+				,[
+				[
+					1,
+					[
+						2,
+						"Default"
+					]
+				]
+,				[
+					3,
+					1
+				]
+				]
+			]
+			]
+		]
+,		[
+			0,
+			null,
+			false,
+			[
+			[
+				2,
+				cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
+				null,
+				true,
+				false,
+				false,
+				false
+				,[
+				[
+					1,
+					[
+						2,
+						"Sube"
+					]
+				]
+				]
+			]
+			],
+			[
+			[
+				2,
+				cr.plugins_.Sprite.prototype.acts.SetAnim,
+				null
+				,[
+				[
+					1,
+					[
+						2,
+						"Default"
+					]
+				]
+,				[
+					3,
+					1
 				]
 				]
 			]
